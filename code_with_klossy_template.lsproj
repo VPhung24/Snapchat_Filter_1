@@ -1,0 +1,604 @@
+{
+    "lens_id": "2cafc0c6-e811-42d0-b726-4ce99642bb8d",
+    "version": "0",
+    "lastChanged": "1531947075617",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "CrownController [EDIT_ME]"
+                    ],
+                    [
+                        "GIPHY Imports"
+                    ],
+                    [
+                        "GIPHY Imports",
+                        "computer coding Sticker by sourfraser"
+                    ],
+                    [
+                        "GIPHY Imports",
+                        "happy taylor swift Sticker"
+                    ],
+                    [
+                        "GIPHY Imports",
+                        "math STICKER"
+                    ],
+                    [
+                        "GIPHY Imports",
+                        "scared baby STICKER"
+                    ],
+                    [
+                        "Materials",
+                        "SpriteMaterial"
+                    ],
+                    [
+                        "PurpleHills"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Flower"
+                    ],
+                    [
+                        "Textures",
+                        "Unlit Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Unlit Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1528247505529328:1205"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "5f277b6851d24cc8d4372cf6db06a76d",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Kode with Klossy",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1528247505529328:1205",
+                    "1528299539114602:23585",
+                    "1528418948046451:149624",
+                    "1528418968999911:150384",
+                    "1531944768475020:3007",
+                    "1531945269779677:5215",
+                    "1531945307531397:6927",
+                    "1531945581996164:10899"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1528247505588551:1280",
+                    "name": "\/Resources\/Resource12.mesh",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Lens Studio-MFeeej\/system\/defaults\/effects\/headbinding\/Occluder.mesh",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1528247505643429:1290",
+                    "name": "\/Resources\/Resource13",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1528247561256686:2209",
+                    "name": "\/Resources\/Resource16.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1528248218745245:9311",
+                    "name": "\/Resources\/Resource20",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1528248218747940:9323",
+                    "name": "\/Resources\/Resource21.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1528419033278544:152763",
+                    "name": "\/Resources\/Resource34",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/Studio3D\/Resources\/Studio3DResources.bundle\/materials\/PostEffectPreset\/Resources\/Resource12\/lookup.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1528419741044648:181360",
+                    "name": "\/Resources\/Resource39.png",
+                    "sourceFilePath": "\/Applications\/Lens Studio Public 1.6.1.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/post_effects\/Flower.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1531944705525129:2932",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/post_effects\/PurpleHills.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1531944768449961:2989",
+                    "name": "\/Resources\/Resource41",
+                    "sourceFilePath": "\/var\/folders\/0w\/hd5srsrn5v9bk0wkh_xxs6r80000gn\/T\/Lens Studio-uCDyoP\/happy taylor swift Sticker.gif",
+                    "additionalProperties": {
+                        "from_giphy": "true"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1531944768546459:3063",
+                    "name": "\/Resources\/Resource43",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1531945269739354:5197",
+                    "name": "\/Resources\/Resource44",
+                    "sourceFilePath": "\/var\/folders\/0w\/hd5srsrn5v9bk0wkh_xxs6r80000gn\/T\/Lens Studio-UCJIaB\/computer coding Sticker by sourfraser.gif",
+                    "additionalProperties": {
+                        "from_giphy": "true"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1531945269829084:5271",
+                    "name": "\/Resources\/Resource46",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1531945307503769:6909",
+                    "name": "\/Resources\/Resource47",
+                    "sourceFilePath": "\/var\/folders\/0w\/hd5srsrn5v9bk0wkh_xxs6r80000gn\/T\/Lens Studio-fXVqVJ\/scared baby STICKER.gif",
+                    "additionalProperties": {
+                        "from_giphy": "true"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1531945307580407:6983",
+                    "name": "\/Resources\/Resource49",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1531945581977908:10881",
+                    "name": "\/Resources\/Resource50",
+                    "sourceFilePath": "\/var\/folders\/0w\/hd5srsrn5v9bk0wkh_xxs6r80000gn\/T\/Lens Studio-lATfkG\/math STICKER.gif",
+                    "additionalProperties": {
+                        "from_giphy": "true"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1531945582047121:10955",
+                    "name": "\/Resources\/Resource52",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1531946223714381:15528",
+                    "name": "\/Resources\/Resource54",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/Studio3D\/Resources\/Studio3DResources.bundle\/materials\/PostEffectPreset\/Resources\/Resource12\/lookup.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228044:84816",
+                "2": "1517446348228144:84822",
+                "3": "1528247505527438:1202",
+                "4": "1528247505529328:1205",
+                "5": "1528247505535261:1239",
+                "6": "1528247513905671:1548",
+                "7": "1528247606685751:2543",
+                "8": "1528418948046451:149624",
+                "9": "1528419033229148:152742",
+                "10": "1531944768470379:3002",
+                "11": "1531944768475020:3007",
+                "12": "1531945269774364:5210",
+                "13": "1531945269779677:5215",
+                "14": "1531945307525994:6922",
+                "15": "1531945307531397:6927",
+                "16": "1531945581990357:10894",
+                "17": "1531945581996164:10899",
+                "18": "1531945742642474:12925",
+                "19": "1531946223691775:15499"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1531944768470379:3002"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        },
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Textures",
+                        "groups": [
+                            {
+                                "name": "Unlit Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Base",
+                                        "resourceId": "21",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "resourceId": "8",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Flower",
+                                "resourceId": "39",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "SpriteMaterial",
+                                "resourceId": "20",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "GIPHY Imports",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "happy taylor swift Sticker",
+                                "resourceId": "41",
+                                "extension": ""
+                            },
+                            {
+                                "name": "computer coding Sticker by sourfraser",
+                                "resourceId": "44",
+                                "extension": ""
+                            },
+                            {
+                                "name": "scared baby STICKER",
+                                "resourceId": "47",
+                                "extension": ""
+                            },
+                            {
+                                "name": "math STICKER",
+                                "resourceId": "50",
+                                "extension": ""
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "CrownController [EDIT_ME]",
+                        "resourceId": "16",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "PurpleHills",
+                        "resourceId": "40",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "Textures\/echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "Textures\/echopark_spec.png"
+                },
+                {
+                    "id": "16",
+                    "path": "CrownController [EDIT_ME].js"
+                },
+                {
+                    "id": "21",
+                    "path": "Textures\/Unlit Textures\/Base.png"
+                },
+                {
+                    "id": "39",
+                    "path": "Textures\/Flower.png"
+                },
+                {
+                    "id": "40",
+                    "path": "PurpleHills.png"
+                },
+                {
+                    "id": "41",
+                    "path": "GIPHY Imports\/happy taylor swift Sticker"
+                },
+                {
+                    "id": "44",
+                    "path": "GIPHY Imports\/computer coding Sticker by sourfraser"
+                },
+                {
+                    "id": "47",
+                    "path": "GIPHY Imports\/scared baby STICKER"
+                },
+                {
+                    "id": "50",
+                    "path": "GIPHY Imports\/math STICKER"
+                }
+            ]
+        }
+    }
+}
